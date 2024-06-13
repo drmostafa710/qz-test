@@ -1,0 +1,35 @@
+[
+    {
+        "title": "Where is the correct place to insert a JavaScript?",
+        "answer-1": "the body section",
+        "answer-2": "head section",
+        "answer-3": "both",
+        "answer-4": "none",
+        "rt-answer": "both"
+    },
+    {
+        "title": "Where is the correct [pla pla plo plo plo..]?",
+        "answer-1": "the body plo",
+        "answer-2": "head plo",
+        "answer-3": "both",
+        "answer-4": "none",
+        "rt-answer": "both"
+    },
+    {
+        "title": "Where is the correct place to ...........?",
+        "answer-1": "the body section",
+        "answer-2": "head section",
+        "answer-3": "both",
+        "answer-4": "none",
+        "rt-answer": "both"
+    },
+    {
+        "title": "Where is the correct ..?",
+        "answer-1": "the body plo",
+        "answer-2": "head plo",
+        "answer-3": "both",
+        "answer-4": "none",
+        "rt-answer": "both"
+    }
+
+]

@@ -1,0 +1,26 @@
+[
+    {
+        "title": "The most common GC detector is …………detector",
+        "answer-1": "electron capture",
+        "answer-2": "flame ionization",
+        "answer-3": "thermal conductivity",
+        "answer-4": "UV",
+        "rt-answer": "flame ionization"
+    },
+    {
+        "title": "The material of packed GC column is made from ……………",
+        "answer-1": "aluminum",
+        "answer-2": "polyimide",
+        "answer-3": "fused silica",
+        "answer-4": "silanized glass",
+        "rt-answer": "silanized glass"
+    },
+    {
+        "title": "The compounds that can be analyzed with GC should be …………. thermally labile",
+        "answer-1": "non volatile",
+        "answer-2": "volatile",
+        "answer-3": "volatile and non",
+        "answer-4": "No Answer Correct",
+        "rt-answer": "volatile"
+    }
+]
